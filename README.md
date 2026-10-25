@@ -20,9 +20,9 @@ This repository holds the release downloads only. Browse them at **https://plugi
 | Dvlce Tune | Pitch | 0.3.5 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/tune-v0.3.5) |
 | Dvlce Phase | Alignment | 0.6.4 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/phase-v0.6.4) |
 | Dvlce Auto Dynamics | Dynamics | 0.1.4 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/autodyn-v0.1.4) |
-| Dvlce Air | Enhancer | 0.1.0 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/air-v0.1.0) |
-| Dvlce Harmonics | Saturation | 0.1.0 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/harmonics-v0.1.0) |
-| Dvlce Dromedary Destroyer | Distortion | 0.1.0 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/dromedary-destroyer-v0.1.0) |
+| Dvlce Air | Enhancer | 0.1.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/air-v0.1.1) |
+| Dvlce Harmonics | Saturation | 0.1.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/harmonics-v0.1.1) |
+| Dvlce Dromedary Destroyer | Distortion | 0.1.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/dromedary-destroyer-v0.1.1) |
 | Dvlce Wiener Inflator | Saturation | 0.1.0 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/wiener-inflator-v0.1.0) |
 | Dvlce Delay | Delay | 0.1.3 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/delay-v0.1.3) |
 | Dvlce Reverb | Reverb | 0.1.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/reverb-v0.1.2) |

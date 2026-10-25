@@ -26,6 +26,7 @@ This repository holds the release downloads only. Browse them at **https://plugi
 | Dvlce Wiener Inflator | Saturation | 0.1.0 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/wiener-inflator-v0.1.0) |
 | Dvlce Delay | Delay | 0.1.3 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/delay-v0.1.3) |
 | Dvlce Reverb | Reverb | 0.1.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/reverb-v0.1.2) |
+| Dvlce Eternal Grin | Riser | 0.1.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/eternal-grin-v0.1.1) |
 | Transcribd | Utility | 0.5.4 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/transcribd-v0.5.4) |
 
 ## Licence

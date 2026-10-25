@@ -8,7 +8,7 @@ This repository holds the release downloads only. Browse them at **https://plugi
 | Plugin | Type | Version | Download |
 |---|---|---|---|
 | Dvlce EQ | Equaliser | 0.2.9 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/eq-v0.2.9) |
-| Dvlce FET | Compressor | 0.1.4 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/fet-v0.1.4) |
+| Dvlce FET | Compressor | 0.1.5 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/fet-v0.1.5) |
 | Dvlce Opto | Compressor | 0.1.6 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/opto-v0.1.6) |
 | Dvlce VCA | Compressor | 0.1.5 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/vca-v0.1.5) |
 | Dvlce Multiband | Compressor | 0.1.5 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/multiband-v0.1.5) |

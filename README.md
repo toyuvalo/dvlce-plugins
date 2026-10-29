@@ -7,26 +7,26 @@ This repository holds the release downloads only. Browse them at **https://plugi
 
 | Plugin | Type | Version | Download |
 |---|---|---|---|
-| Dvlce EQ | Equaliser | 0.3.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/eq-v0.3.1) |
-| Dvlce FET | Compressor | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/fet-v0.2.1) |
-| Dvlce Opto | Compressor | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/opto-v0.2.1) |
-| Dvlce VCA | Compressor | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/vca-v0.2.1) |
-| Dvlce Multiband | Compressor | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/multiband-v0.2.1) |
-| Dvlce Limit | Limiter | 0.3.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/limit-v0.3.1) |
-| Dvlce Vox | Vocal | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/vox-v0.2.1) |
-| Dvlce Rider | Vocal | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/rider-v0.2.1) |
-| Dvlce Breath | Vocal | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/breath-v0.2.1) |
-| Dvlce Transient | Dynamics | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/transient-v0.2.1) |
-| Dvlce Tune | Pitch | 0.4.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/tune-v0.4.1) |
-| Dvlce Phase | Alignment | 0.7.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/phase-v0.7.1) |
-| Dvlce Auto Dynamics | Dynamics | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/autodyn-v0.2.1) |
-| Dvlce Air | Enhancer | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/air-v0.2.1) |
-| Dvlce Harmonics | Saturation | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/harmonics-v0.2.1) |
-| Dvlce Dromedary Destroyer | Distortion | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/dromedary-destroyer-v0.2.1) |
-| Dvlce Wiener Inflator | Saturation | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/wiener-inflator-v0.2.1) |
-| Dvlce Delay | Delay | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/delay-v0.2.1) |
-| Dvlce Reverb | Reverb | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/reverb-v0.2.1) |
-| Dvlce Eternal Sunshine | Riser | 0.2.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/eternal-sunshine-v0.2.1) |
+| Dvlce EQ | Equaliser | 0.3.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/eq-v0.3.2) |
+| Dvlce FET | Compressor | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/fet-v0.2.2) |
+| Dvlce Opto | Compressor | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/opto-v0.2.2) |
+| Dvlce VCA | Compressor | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/vca-v0.2.2) |
+| Dvlce Multiband | Compressor | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/multiband-v0.2.2) |
+| Dvlce Limit | Limiter | 0.3.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/limit-v0.3.2) |
+| Dvlce Vox | Vocal | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/vox-v0.2.2) |
+| Dvlce Rider | Vocal | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/rider-v0.2.2) |
+| Dvlce Breath | Vocal | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/breath-v0.2.2) |
+| Dvlce Transient | Dynamics | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/transient-v0.2.2) |
+| Dvlce Tune | Pitch | 0.5.0 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/tune-v0.5.0) |
+| Dvlce Phase | Alignment | 0.7.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/phase-v0.7.2) |
+| Dvlce Auto Dynamics | Dynamics | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/autodyn-v0.2.2) |
+| Dvlce Air | Enhancer | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/air-v0.2.2) |
+| Dvlce Harmonics | Saturation | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/harmonics-v0.2.2) |
+| Dvlce Dromedary Destroyer | Distortion | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/dromedary-destroyer-v0.2.2) |
+| Dvlce Wiener Inflator | Saturation | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/wiener-inflator-v0.2.2) |
+| Dvlce Delay | Delay | 0.3.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/delay-v0.3.1) |
+| Dvlce Reverb | Reverb | 0.3.1 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/reverb-v0.3.1) |
+| Dvlce Eternal Sunshine | Riser | 0.2.2 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/eternal-sunshine-v0.2.2) |
 | Transcribd | Utility | 0.6.0 | [release](https://github.com/toyuvalo/dvlce-plugins/releases/tag/transcribd-v0.6.0) |
 
 ## Licence
